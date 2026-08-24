@@ -8,6 +8,10 @@ The ESP-01S creates a Wi-Fi access point and hosts a mobile-friendly control web
 
 FreeRTOS manages the manual control, Wi-Fi communication, ultrasonic measurement, autonomous driving, and mode-control tasks.
 
+## Demonstration
+
+[▶ Watch the car demonstration] https://youtube.com/shorts/UZM03QLA61s?si=9ukpCIgxdn7mIF0P
+
 ## Main Features
 
 * Manual and autonomous operating modes
