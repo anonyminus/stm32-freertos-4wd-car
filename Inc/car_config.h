@@ -16,7 +16,7 @@
 #define JUNCTION_ADVANTAGE_MM               180U
 
 /* L298N speeds, expressed as PWM percentages. */
-#define DRIVE_SPEED                          32U
+#define DRIVE_SPEED                          55U
 #define CORRECTION_SLOW_SPEED                30U
 #define TURN_SPEED                           40U
 #define REVERSE_SPEED                        30U
@@ -36,9 +36,9 @@
 #define BLUETOOTH_COMMAND_TIMEOUT_MS         600U
 
 /* Manual mode motor settings, expressed as PWM percentages. */
-#define MANUAL_DRIVE_SPEED                    70U
-#define MANUAL_TURN_SPEED                     55U
-#define MANUAL_CURVE_INNER_SPEED              45U
+#define MANUAL_DRIVE_SPEED                    55U
+#define MANUAL_TURN_SPEED                     40U
+#define MANUAL_CURVE_INNER_SPEED              30U
 #define MANUAL_FRONT_SAFETY_MM               210U
 
 #endif /* CAR_CONFIG_H */
