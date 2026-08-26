@@ -18,7 +18,8 @@ https://youtube.com/shorts/UZM03QLA61s?si=9ukpCIgxdn7mIF0P
 
 ### ESP-01S Wi-Fi Control Interface
 
-The ESP-01S hosts the control webpage at `192.168.4.1`. The same interface is used in both operating modes and displays the currently active mode.
+The ESP-01S hosts the control webpage at `192.168.4.1`.
+The same interface is used in both operating modes and displays the currently active mode.
 
 <table>
   <tr>
