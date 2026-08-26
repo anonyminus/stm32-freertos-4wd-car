@@ -1,4 +1,7 @@
+
 # STM32 FreeRTOS 4WD Autonomous & Wi-Fi RC Car
+
+STM32 Autonomous RC Car | NUCLEO-F411RE | FreeRTOS | ESP-01S Wi-Fi Control | Ultrasonic Obstacle Avoidance
 
 ## Overview
 
