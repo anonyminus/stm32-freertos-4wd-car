@@ -319,3 +319,7 @@ The Nucleo onboard LED indicates the current STM32 mode:
 GitHub: `@anonyminus`
 
 Embedded systems project developed using the STM32 NUCLEO-F411RE, FreeRTOS, and ESP8266.
+
+## License
+
+This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
